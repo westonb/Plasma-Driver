@@ -1,0 +1,10 @@
+#ignore kicad backup files
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+#ignore ltspice log files
+*.log
+*.plt
+*.raw
+simulation/*.net
+
